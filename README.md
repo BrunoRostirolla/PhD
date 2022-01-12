@@ -17,4 +17,8 @@
   
   There is another element to this as well. When we measure the CV with the device exposed to light that the semiconductor can absorb, the CV profile also changes. 
   
-  How all these elements contribute to the capacitance profile of the device? 
+  How all these elements contribute to the capacitance profile of the device? How can we gain insights into the quality of the insulator/semiconductor interface from these measurements? 
+  
+  The current model was only capable of explaining changes in CV profile when light was added to the equation, but how about charges trapped at the interface? This is what did in the last chapter of the PhD thesis.
+  
+  
